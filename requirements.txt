@@ -11,7 +11,6 @@ cinemagoer
 cloudscraper
 cryptography
 dnspython
-electrogram
 feedparser
 flask
 gevent
