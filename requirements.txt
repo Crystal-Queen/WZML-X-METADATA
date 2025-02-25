@@ -34,7 +34,7 @@ python-dotenv
 pyshorteners
 python-magic
 pymongo
-pyrofork==2.3.55
+pyrogram
 quoters
 qbittorrent-api
 requests
