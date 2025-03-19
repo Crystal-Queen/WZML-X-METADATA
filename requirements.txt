@@ -34,7 +34,7 @@ python-dotenv
 pyshorteners
 python-magic
 pymongo
-pyrogram==2.0.101
+pyrogram==2.0.102
 quoters
 qbittorrent-api
 requests
