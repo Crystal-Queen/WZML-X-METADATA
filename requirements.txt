@@ -45,5 +45,5 @@ tgcrypto
 uv
 uvloop
 xattr
-yt-dlp[default,curl-cffi]
+yt-dlp==2025.03.26
 pytz
