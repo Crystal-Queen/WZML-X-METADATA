@@ -11,6 +11,7 @@ cinemagoer
 cloudscraper
 cryptography
 dnspython
+electrogram
 feedparser
 flask
 gevent
@@ -34,7 +35,7 @@ python-dotenv
 pyshorteners
 python-magic
 pymongo
-pyrofork==2.3.32
+pyrofork==2.3.53
 quoters
 qbittorrent-api
 requests
